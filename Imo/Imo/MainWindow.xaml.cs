@@ -8,6 +8,5 @@ namespace Imo
         {
             InitializeComponent();
         }
-        gkhmlk
     }
 }
